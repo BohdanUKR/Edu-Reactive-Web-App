@@ -1,0 +1,11 @@
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\Web-Student-Courses-Platform.exe
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\appsettings.json
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\Web-Student-Courses-Platform.dll
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\Web-Student-Courses-Platform.deps.json
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\Web-Student-Courses-Platform.runtimeconfig.json
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\Web-Student-Courses-Platform.pdb
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\bodya\Desktop\My college courses IV semester\API engineering\Group project\Web-Student-Courses-Platform\Web-Student-Courses-Platform\bin\Release\net6.0\publish\AWSSDK.S3.dll

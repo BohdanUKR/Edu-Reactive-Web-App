@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXYIv+GsfKHwWHtSceYFA9DyLNGwQst1ymvovgfH6TicIcscxzA2detbZ8WXgie0dgvLFmTo5TUIlT1vn6UbuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bodya\\Desktop\\My college courses IV semester\\API engineering\\Group project\\Web-Platform\\Web-Student-Courses-Platform\\Web-Student-Courses-Platform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bodya\\.nuget\\packages\\awssdk.core\\3.7.200.16\\awssdk.core.3.7.200.16.nupkg.sha512",
+    "C:\\Users\\bodya\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.200.17\\awssdk.dynamodbv2.3.7.200.17.nupkg.sha512",
+    "C:\\Users\\bodya\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.7\\awssdk.extensions.netcore.setup.3.7.7.nupkg.sha512",
+    "C:\\Users\\bodya\\.nuget\\packages\\awssdk.s3\\3.7.201.14\\awssdk.s3.3.7.201.14.nupkg.sha512",
+    "C:\\Users\\bodya\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\bodya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\bodya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\bodya\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\bodya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
